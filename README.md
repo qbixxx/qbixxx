@@ -1,5 +1,5 @@
 # Hi there 👋
-## Quick summary:
+## 📝 Quick summary:
 - 💻 **FOSS advocate**
 - 🔐 **Cybersecurity Enthusiast** 
 - 📡 **Electronics & Telecommunications**    
