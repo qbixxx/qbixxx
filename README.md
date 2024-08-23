@@ -7,4 +7,5 @@
 
 ### 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qbixxx&show_icons=true&theme=radical)
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=qbixxx&theme=react-dark)
+
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical)
