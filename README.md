@@ -5,7 +5,7 @@
 - 📡 **Electronics & Telecommunications**    
 - 🏴 **Occupy the web**
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
  
 | Stats | Languages |
 |-------|-----------|
