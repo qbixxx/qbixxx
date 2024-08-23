@@ -9,4 +9,4 @@
  
 | Stats | Languages |
 |-------|-----------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qbixxx&show_icons=true&theme=minimal) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qbixxx&layout=compact&theme=minimal) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qbixxx&show_icons=true&theme=react-dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qbixxx&layout=compact&theme=react-dark) |
