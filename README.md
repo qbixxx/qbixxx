@@ -1,9 +1,10 @@
 ## Hi there 👋
 # quick summary:
-💻 **FOSS advocate**
-🔐 **Cybersecurity Enthusiast** 
-📡 **Electronics & Telecommunications**    
-🏴 **Occupy the web**
+- 💻 **FOSS advocate**
+- 🔐 **Cybersecurity Enthusiast** 
+- 📡 **Electronics & Telecommunications**    
+- 🏴 **Occupy the web**
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qbixxx&show_icons=true&theme=chartreuse-dark) ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=chartreuse-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qbixxx&show_icons=true&theme=chartreuse-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=qbixxx&layout=compact&theme=dark)
