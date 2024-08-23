@@ -6,6 +6,4 @@
 🛠️ **Committed to Free Software & Computing**
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qbixxx&show_icons=true&theme=halloween)
-
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=halloween)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qbixxx&show_icons=true&theme=chartreuse-dark) ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=chartreuse-dark)
