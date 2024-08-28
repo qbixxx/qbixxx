@@ -7,6 +7,6 @@
 - 👩🏻‍💻 **Studying @[FI.UBA](https://www.fi.uba.ar/grado/carreras/ingenieria-en-informatica/plan-de-estudios)**
 ## 📊 GitHub Stats:
  
-| Stats | Languages |
-|-------|-----------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qbixxx&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qbixxx&layout=compact&theme=cobalt) |
+| Stats | Languages | Badges |
+|-------|-----------|--------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qbixxx&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qbixxx&layout=compact&theme=cobalt) | ![Badges](![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=qbixxx&theme=cobalt)
