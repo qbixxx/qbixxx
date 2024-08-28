@@ -9,5 +9,5 @@
 ## 📊 GitHub Stats:
 | Stats | Languages | 
 |-------|-----------|
-| ![GitHub Stats](<img src="https://myreadme.vercel.app/api/embed/qbixxx?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qbixxx&layout=compact&theme=onedark) | 
+| ![GitHub Stats](https://myreadme.vercel.app/api/embed/qbixxx?panels=userstatistics,toprepositories,toplanguages,commitgraph") | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qbixxx&layout=compact&theme=onedark) | 
 
