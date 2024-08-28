@@ -14,5 +14,5 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=qbixxx&theme=cobalt" alt="GitHub Trophys">
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qbixxx&theme=midnight-purple" alt="GitHub Streak" width="200">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qbixxx&theme=midnight-purple" alt="GitHub Streak" width="1200">
 </div>
