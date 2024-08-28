@@ -9,12 +9,7 @@
  
 | Stats | Languages | Streak |
 |-------|-----------|--------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qbixxx&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qbixxx&layout=compact&theme=cobalt) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=qbixxx&theme=cobalt)
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qbixxx&show_icons=true&theme=onedark&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qbixxx&layout=compact&theme=onedark) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=qbixxx&theme=onedark)
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=qbixxx&theme=cobalt)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=qbixxx&theme=midnight-purple)
-
-![GitHub Snake](https://github.com/qbixxx/qbixxx/blob/output/github-contribution-grid-snake.svg)
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=qbixxx&theme=midnight-purple)
