@@ -14,3 +14,5 @@
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=qbixxx&theme=cobalt)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=qbixxx&theme=midnight-purple)
+
+![GitHub Snake](https://github.com/qbixxx/qbixxx/blob/output/github-contribution-grid-snake.svg)
