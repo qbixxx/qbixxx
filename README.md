@@ -9,11 +9,7 @@
  
 | Stats | Languages | Streak |
 |-------|-----------|--------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qbixxx&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&cache_seconds=1800) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qbixxx&layout=compact&theme=onedark) |![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=qbixxx&theme=onedark)|
-
-
-
-
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qbixxx&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&cache_seconds=1800) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qbixxx&layout=compact&theme=onedark) |
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=qbixxx&theme=onedark&point=00000000&radius=16#gh-dark-mode-only" alt="GitHub Activity Graph">
