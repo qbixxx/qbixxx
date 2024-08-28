@@ -16,3 +16,5 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=qbixxx&theme=midnight-purple)
 
 ![GitHub Snake](https://github.com/qbixxx/qbixxx/blob/output/github-contribution-grid-snake.svg)
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=qbixxx&theme=midnight-purple)
