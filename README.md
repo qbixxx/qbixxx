@@ -13,7 +13,7 @@
       <th>Languages</th>
     </tr>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=qbixxx&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true" alt="GitHub Stats"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=qbixxx&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats"></td>
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qbixxx&layout=compact&theme=tokyonight" alt="Top Languages"></td>
     </tr>
   </table>
