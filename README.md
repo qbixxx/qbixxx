@@ -24,4 +24,3 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=qbixxx&theme=github-dark&point=00000000&radius=160#gh-dark-mode-only" alt="GitHub Activity Graph">
 </div>
 
-[![An image of @qbixxx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/qbixxx)](https://holopin.io/@qbixxx#badges)
