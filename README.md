@@ -18,6 +18,7 @@
       <td><img src="https://metrics.lecoq.io/qbixxx?template=classic&config.timezone=America%Buenos_Aires" alt="Metrics"></td>
     </tr>
   </table>
+  <td><img src="https://metrics.lecoq.io/qbixxx?template=classic&config.timezone=America%Buenos_Aires" alt="Metrics"></td>
 </div>
 
 
