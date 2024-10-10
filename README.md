@@ -1,1 +1,1 @@
-[![Resumen](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qbixxx&theme=radical)](https://github.com/qbixxx)
+![Resumen de Contribuciones](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TU_USUARIO&theme=radical)
