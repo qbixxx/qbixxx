@@ -14,7 +14,7 @@
     </tr>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=qbixxx&theme=tokyonight&show_icons=true&count_private=true" alt="GitHub Stats"></td>
-      <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=TU_USUARIO&theme=tokyonight"></td>
+      <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=qbixxx&theme=tokyonight"></td>
     </tr>
   </table>
 </div>
