@@ -14,7 +14,7 @@
     </tr>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=qbixxx&theme=tokyonight&show_icons=true&count_private=true" alt="GitHub Stats"></td>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TU_USUARIO&theme=radical" alt="Top Languages"></td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qbixxx&theme=radical" alt="Top Languages"></td>
     </tr>
   </table>
 </div>
