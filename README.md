@@ -15,7 +15,6 @@
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=qbixxx&theme=tokyonight&show_icons=true&count_private=true" alt="GitHub Stats"></td>
       <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qbixxx&theme=tokyonight&show_icons=true&count_private=true" alt="Top Languages"></td>
-      <td><img src="https://metrics.lecoq.io/qbixxx?template=classic&config.timezone=America%Buenos_Aires" alt="Metrics"></td>
     </tr>
   </table>
   <img src="https://metrics.lecoq.io/qbixxx?template=classic&config.timezone=America%Buenos_Aires" alt="Metrics">
