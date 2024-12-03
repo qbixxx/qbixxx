@@ -5,6 +5,7 @@
 - 📡 **Electronics & Telecommunications**    
 - 🏴 **Occupy the web**
 - 👩🏻‍💻 **Studying @[FI.UBA](https://www.fi.uba.ar/grado/carreras/ingenieria-en-informatica/plan-de-estudios)**
+- 👩🏻‍💻 **Working @[BAPRO](https://www.bancoprovincia.com.ar/home/)
 <div align="center">
   <table>
     <tr>
