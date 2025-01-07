@@ -16,5 +16,5 @@
       <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qbixxx&theme=radical"></td>
     </tr>
   </table>
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=qbixxx&theme=github)
+  [Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=qbixxx&theme=github)
 </div>
