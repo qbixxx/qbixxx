@@ -14,7 +14,7 @@
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=qbixxx&theme=radical&show_icons=true&count_private=true" alt="GitHub Stats"></td>
       <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qbixxx&theme=radical"></td>
-      <td>![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=qbixxx&theme=github)</td>
     </tr>
   </table>
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=qbixxx&theme=github)
 </div>
