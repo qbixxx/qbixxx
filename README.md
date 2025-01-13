@@ -5,12 +5,7 @@
 - 📡 **Electronics & telecommunications**    
 - 🏴 **Occupy the web**
 - 👩🏻‍💻 **Studying @[FI.UBA](https://www.fi.uba.ar/grado/carreras/ingenieria-en-informatica/plan-de-estudios)**
-
-- ![Header](https://via.placeholder.com/800x200.png?text=Abstracto+Widget)
-
 <div align="center"> 
-  <img src="https://via.placeholder.com/800x200.png?text=Widget+Abstracto" alt="Widget Abstracto" style="border-radius: 15px; background: linear-gradient(to right, #00C9FF, #92FE9D); padding: 10px;">
-
   <table>
     <tr>
       <th>Stats</th>
