@@ -17,4 +17,4 @@
     </tr>
   </table>
 </div>
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqbixxx&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitas&edge_flat=false)
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=qbixxx&repo=qbixxx&countColorcountColor&countColor=%237B1E7B"/>
