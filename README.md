@@ -16,5 +16,5 @@
       <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qbixxx&theme=dracula"></td>
     </tr>
   </table>
-  ![Visitas](https://visitor-badge.glitch.me/badge?page_id=qbixxx.qbixxx)
 </div>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqbixxx&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitas&edge_flat=false)](https://hits.seeyoufarm.com)
