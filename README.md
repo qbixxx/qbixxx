@@ -17,4 +17,4 @@
     </tr>
   </table>
 </div>
-![Visitas](https://visitor-badge.glitch.me/badge?page_id=qbixxx.qbixxx)
+![Visitas](https://visitor-badge.glitch.me/badge?page_id=qbixxx)
