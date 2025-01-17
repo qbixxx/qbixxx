@@ -17,4 +17,3 @@
     </tr>
   </table>
 </div>
-<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=qbixxx&repo=qbixxx&countColorcountColor&countColor=%237B1E7B"/>
