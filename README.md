@@ -1,6 +1,6 @@
 # Hi there 👋
 ## 📝 Quick summary about me:
-- 🔐 ** FOSS & Cybersecurity enthusiast** 
+- 🔐 **FOSS & Cybersecurity enthusiast** 
 - 📡 **Electronics & telecommunications**    
 - 🏴 **Occupy the web**
 - 👩🏻‍💻 **Studying @[FI.UBA](https://www.fi.uba.ar/grado/carreras/ingenieria-en-informatica/plan-de-estudios)**
