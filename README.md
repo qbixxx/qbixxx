@@ -12,8 +12,8 @@
       <th>Languages</th>
     </tr>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=qbixxx&theme=monokai&show_icons=true&count_private=true"></td>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qbixxx&theme=monokai"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=qbixxx&theme=transparent&show_icons=true&count_private=true"></td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qbixxx&theme=transparent"></td>
     </tr>
   </table>
 </div>
