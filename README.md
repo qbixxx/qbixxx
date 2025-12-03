@@ -5,12 +5,5 @@
 - 👩🏻‍💻 **Studying @[FI.UBA](https://www.fi.uba.ar/grado/carreras/ingenieria-en-informatica/plan-de-estudios)**
 - 👩🏻‍💻 **Working @[REDACTED FOR PRIVACY]**
 <div align="center"> 
-  <table>
-    <tr>
-      <th>Languages</th>
-    </tr>
-    <tr>
-      <td><img src="https://streak-stats.demolab.com/?user=qbixxx&theme=transparent"></td>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qbixxx&theme=transparent"></td>    </tr>
-  </table>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qbixxx&theme=transparent"></td>
 </div>
