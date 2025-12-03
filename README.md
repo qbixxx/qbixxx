@@ -10,7 +10,7 @@
       <th>Languages</th>
     </tr>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=qbixxx&show_icons=true&theme=radical"></td>
+      <td><img src="https://streak-stats.demolab.com/?user=qbixxx"></td>
       <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qbixxx&theme=transparent"></td>    </tr>
   </table>
 </div>
