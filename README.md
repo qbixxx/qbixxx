@@ -7,7 +7,6 @@
 <div align="center"> 
   <table>
     <tr>
-      <th>Stats</th>
       <th>Languages</th>
     </tr>
     <tr>
